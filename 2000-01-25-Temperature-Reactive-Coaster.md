@@ -21,7 +21,7 @@ Linda Li
 William Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Temperature-Reactive-Coaster"" >Temperature-Reactive-Coaster</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Temperature-Reactive-Coaster" >Temperature-Reactive-Coaster</a>
 
 ## Photo
 
