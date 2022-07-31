@@ -4,7 +4,7 @@ title: Temperature Reactive Coaster
 description: To create a coaster that visualizes the temperature of a drink
 date: 2000-01-25 09:00:00
 hero_image: /web/img/Temperature-Reactive-Coaster/Hero.png
-image: /web/img/Temperature-Reactive-Coaster/Hero.png
+# image /web/img/Temperature-Reactive-Coaster/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
